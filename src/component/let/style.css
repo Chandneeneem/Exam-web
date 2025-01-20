@@ -1,0 +1,14 @@
+.list-group a:hover {
+  background-color: grey;
+  color: white;
+  cursor: pointer;
+}
+
+.comptext {
+  font-weight: bold;
+}
+
+.sidebar-scroll {
+  max-height: calc(100vh - 50px);
+  overflow-y: auto;
+}

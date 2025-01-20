@@ -1,0 +1,212 @@
+{
+  "user": [
+    {
+      "id": "5006",
+      "name": "user1",
+      "email": "user123@gmail.com",
+      "password": "userone",
+      "confirmPassword": "userone",
+      "acceptTerms": true
+    },
+    {
+      "id": "b5fc",
+      "name": "pratiksha",
+      "email": "pratiksha@123.com",
+      "password": "pratiksha",
+      "confirmPassword": "pratiksha",
+      "acceptTerms": true
+    },
+    {
+      "id": "e304",
+      "name": "sumit gour",
+      "email": "sumit@123.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true
+    }
+  ],
+  "questionData": [
+    {
+      "id": "476f",
+      "question": " An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+      "options": [
+        "1",
+        "34",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "34",
+      "timeLimit": "60"
+    },
+    {
+      "id": "476f",
+      "question": " An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+      "options": [
+        "1",
+        "34",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "34",
+      "timeLimit": "60"
+    },
+    {
+      "id": "ae3a",
+      "question": "Which one of the following is not a prime number?",
+      "options": [
+        "7",
+        "11",
+        "13",
+        "91"
+      ],
+      "correctAnswer": "91",
+      "timeLimit": "50"
+    },
+    {
+      "id": "3248",
+      "question": "pink is ",
+      "options": [
+        "flowerr",
+        "color",
+        "fruit",
+        "appl"
+      ],
+      "correctAnswer": "color",
+      "timeLimit": "60"
+    }
+  ],
+  "verbalques": [
+    {
+      "id": "ce0a",
+      "question": "pink is ",
+      "options": [
+        "color",
+        "red",
+        "blue",
+        "black"
+      ],
+      "correctAnswer": "color"
+    },
+    {
+      "id": "f722",
+      "question": "abc are",
+      "options": [
+        "letter",
+        "word",
+        "num",
+        "other"
+      ],
+      "correctAnswer": "letter"
+    }
+  ],
+  "Currentques": [
+    {
+      "id": "3f4b",
+      "question": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+      "options": [
+        "12",
+        "14",
+        "15",
+        "23"
+      ],
+      "correctAnswer": "14"
+    },
+    {
+      "id": "3f4b",
+      "question": "The ratio between the length and the breadth of a rectangular park is 3 : 2. If a man cycling along the boundary of the park at the speed of 12 km/hr completes one round in 8 minutes, then the area of the park (in sq. m) is:",
+      "options": [
+        "12",
+        "14",
+        "15",
+        "23"
+      ],
+      "correctAnswer": "14"
+    },
+    {
+      "id": "0780",
+      "question": "that is A",
+      "options": [
+        "a",
+        "b",
+        "c",
+        "d"
+      ],
+      "correctAnswer": "a"
+    }
+  ],
+  "Puzzelques": [],
+  "result": [
+    {
+      "id": "704c",
+      "userId": "user1",
+      "testType": "Aptitude",
+      "correctAnswers": 2,
+      "totalnum": 2,
+      "percentage": 100,
+      "passORfail": true
+    },
+    {
+      "id": "f29c",
+      "userId": "user1",
+      "testType": "Aptitude",
+      "correctAnswers": 2,
+      "totalnum": 2,
+      "percentage": 100,
+      "passORfail": true
+    },
+    {
+      "id": "5464",
+      "userId": "user1",
+      "testType": "Verbal Test",
+      "correctAnswers": 2,
+      "totalnum": 2,
+      "percentage": 100,
+      "passORfail": true
+    },
+    {
+      "id": "2ee7",
+      "userId": "user1",
+      "testType": "Aptitude",
+      "correctAnswers": 4,
+      "totalnum": 4,
+      "percentage": 100,
+      "passORfail": true
+    },
+    {
+      "id": "87b4",
+      "userId": "user1",
+      "testType": "Aptitude",
+      "correctAnswers": 0,
+      "totalnum": 4,
+      "percentage": 0,
+      "passORfail": false
+    },
+    {
+      "id": "2406",
+      "userId": "sumit gour",
+      "testType": "Aptitude",
+      "correctAnswers": 0,
+      "totalnum": 4,
+      "percentage": 0,
+      "passORfail": false
+    },
+    {
+      "id": "d134",
+      "userId": "sumit gour",
+      "testType": "Puzzel Test",
+      "correctAnswers": 0,
+      "totalnum": 0,
+      "percentage": "NaN",
+      "passORfail": false
+    },
+    {
+      "id": "06e7",
+      "userId": "sumit gour",
+      "testType": "Aptitude",
+      "correctAnswers": 0,
+      "totalnum": 4,
+      "percentage": 0,
+      "passORfail": false
+    }
+  ]
+}
