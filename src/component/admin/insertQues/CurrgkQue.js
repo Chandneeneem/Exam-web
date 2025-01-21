@@ -31,7 +31,6 @@ const CurrgkQue = () => {
         }
     };
     const addQuestion = async () => {
-        // Check if all fields are filled
         if (!formData.question || formData.options.some(option => option === '') || !formData.correctAnswer) {
             toast.error('Please fill all fields.');
             return;

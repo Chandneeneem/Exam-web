@@ -13,7 +13,7 @@ const InsertQuestions = () => {
         question: '',
         options: ['', '', '', ''],
         correctAnswer: '',
-        timeLimit: '' // New state variable for time limit
+        timeLimit: ''
     });
 
     const handleChange = (e, index) => {
